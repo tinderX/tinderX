@@ -1,1 +1,3 @@
-https://github.com/tinderX/tinderX/blob/main/tinderX%20architecture.png
+p align="center">
+  <img src="tinderX architecture.png" width="350" title="hover text">
+</p>
